@@ -1,5 +1,7 @@
 # my_first_web_service
-problem statement: require a easy to use web service that can be run from Jenkins or Maven. 
+Problem Statement: require a easy to use REST API web service that can be run from Jenkins or Maven.
+
+Scope: Currently it is supporting GET request and it provides XML response
 
 Solution:
 1. the maven command to run this web service is : mvn jetty:run
